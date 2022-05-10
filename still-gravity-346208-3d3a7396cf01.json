@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "still-gravity-346208",
+  "private_key_id": "69ce134973914bda1cc986f1929a6c7719dd42b4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCZm1/3Q+osNP6E\nhHczcX2VuI0WeApn5xWl7mH1P27BTQChRaIzbCaHgJbmkHet2NY5U9vBCFAoMrjL\n+gYd9d5syBXQ89v7pHzzPW426EU6lxHhre4imquf7+Xl8sQRHNqgML0OZCtlL1RF\nx2QVUmSG1RoJToaOymnOIBD2zF1PGRoPFY1HH01fckdT1ujyCusw7yQsLwTwqZMw\nkJIIjCaTwG9Vr/AD1V9Sbq+2l5CnsGb0yztlmSZdL0ri7AOy159jKoNF0vt8XcnV\nccmg94W3p0sq4/lImM9ND+XoS35qzBRIXNyOruD+JblMjlZUpfa7L2iuMh7jn2UC\nlPYbLnqzAgMBAAECggEADiybwOXn9HdZayIMG9ejpo62mjWuhCL7SOoD6Q0W68hu\nv/L8gjE/Ju7TPehj2stxDS4zT480UllH2y6xpM8c3L3j4Xm3OXPWwd1Pz8pEJSFu\nmXwixtet8Z7CAKOTux6GABUvROYyaO5ioOPC1QLa2uRMOEKiQQfllos39YYrMBK0\nxap4bHGC3i/02WFwxoGx7IfYMxxg2sLaoEg5rmcJPBNlj84Harn4mYzjbCpkBovG\nfXd7+mRJ5uMtE9kxufk2MEpdBRA480XCEM9SiK6SQV5UCcmZP+S0r//08Docd8w6\n0BR3o7rM009uubHxWRqWmzUZ3uw8ev3HiSGcRPhdvQKBgQDPj+X+iWC07Be9aJeP\no65zUB7Lw5JO1OUwQbj4B918zEMXsL5TeQkk2R02SfhA5dKOj6g3RSDEJG01onJ5\nudKiEJXF9giHe++A7OYieh9DHxCwjJE9ZTYQR3yh+9nJyR+KFZN9KLcVlFO8sDWL\nojXGurXXhK5fxMuV/f5oh/ZanQKBgQC9dBsWJGwkQ2ZDVoZEzHfWq4ylwBDZcwvD\nICoruT0U9T6UfMRvMbyoYwf8517aiz8EDL/mLrmE/VevJaraHtL9N3coZHWkLNlT\nszZnYQvSlt7N61xc4BtfLKmONSrrQ6Wy2D+uFZU5JzjJkxyH8C51ef/8z223k2W+\n2d6QLNBBjwKBgAvYTmvEMzyf7IrmmR+dW6tA+0DtnD/bbmjel0uwRzeEAKAtee8R\njTAJI92hQwWRF/8Cu7rLux72ZTUWXCoOLLMK90Eg1UPGEtjsrAVzqq0N7Mnme7Nh\nP0CWk8o6sScOzzn2GUCfPjOBD3ZJKAUb8K2yogX2kGzush+RKx+UAr8RAoGANQ65\nL0BQEO/XSfCHdekVfsdYgmsBzQRNPP5bERe1pZLxTcCLeuChBz+E0y0xAV+R7F5t\nt9dKGZah4elYqfGMAWJxOpy33Zy52JkOGXGyT+30xBKwMUqKH+NwMOVu+aheVXH+\nk5Bz1CfJ3ZoXmXKIcFoUeQbWoVzkV8jIbfQ+9r0CgYBxwliy7UB0syzuHWDJ6liz\nu4DePbXkn3ckPttrM42f7pv1iMEVzfTACvXdA2T5PsFhnShz8Nvsnna77XH5XPaG\nObbKh13ZLjDX+rst2arP1tzIRurWFcjmfmc7ZJVTbgpreKgnamcFFVzqdd6b4kTp\nVZKAcXquGvLYbvSFFA8uFA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "remot-library-student-project@still-gravity-346208.iam.gserviceaccount.com",
+  "client_id": "115462263442949830252",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/remot-library-student-project%40still-gravity-346208.iam.gserviceaccount.com"
+}
