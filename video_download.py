@@ -19,7 +19,7 @@ except:
 mp4files360 = yt.streams.filter(resolution='360p', file_extension='mp4', progressive='True')[-1]
 print(mp4files360)
 try:
-    mp4files360.download(SAVE_PATH)
+    mp4files360.download(SAVE_PATH, filename="video1.mp4")
     print("The video is saved")
 except:
     print("Video can not be downloaded!")
