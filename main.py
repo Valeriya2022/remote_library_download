@@ -42,7 +42,7 @@ if __name__ == '__main__':
                     update_website(website["source"], PATH_WEB, website["url"])
                     res = update_website_database(website["id"])
                     if res:
-                        print("successfully")
+                        print("successfully updated website")
 
 
         else:
