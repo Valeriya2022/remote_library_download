@@ -1,6 +1,5 @@
 import wget
 import requests
-from bs4 import BeautifulSoup
 
 URL = "https://www.googleapis.com/books/v1/volumes/GPXJLYd7i2oC"
 r = requests.get(url=URL)
